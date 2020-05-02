@@ -1,0 +1,1 @@
+var list = arrayListOf<Int>().add(1)
